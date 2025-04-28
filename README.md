@@ -1,4 +1,4 @@
-# Text-Generation-with-Neural-Networks
+# 📝Text-Generation-with-Neural-Networks
 This project focuses on building a Neural Network-based Text Generator using deep learning techniques. It demonstrates how a model can learn from existing text data and generate new, coherent sequences of text based on learned patterns.
 
 ## 📚 Project Overview
