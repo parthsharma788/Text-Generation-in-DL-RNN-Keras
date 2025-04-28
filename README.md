@@ -37,3 +37,8 @@ Dense Layer (Output layer with softmax activation)
 
 ## ✨ Results
 After training, the model can generate creative text passages that resemble the input data in tone, style, and structure. Adjusting parameters like temperature can make the generated text more or less creative.
+
+#### 👨‍💻 Author - Parth Sharma
+#### 📧 Email: Parthsharma2300@gmail.com
+#### 🔗 LinkedIn: https://www.linkedin.com/in/parth-sharma-8288a7283
+⭐ If you found this helpful, consider giving it a star!
